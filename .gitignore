@@ -1,0 +1,16 @@
+.DS_Store
+*.user
+*.suo
+bin
+Bin
+obj
+Obj
+/.vs/
+*.vs
+*resharper*
+.DS_Store
+*.sassc
+*.scssc
+.sass-cache
+packages
+node_modules
